@@ -1,5 +1,4 @@
-import path from "path";
-
+const path = require("path");
 const markdownDirectory = path.resolve(__dirname, "../docs");
 
 export default {
