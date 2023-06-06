@@ -15,6 +15,10 @@ export default {
             text: "API 선언 직관적으로 하는 법",
             link: "/frontend/clean-axios",
           },
+          {
+            text: "ECMA 2023 NEW Array Method",
+            link: "/frontend/2023ES",
+          },
         ],
       },
     ],
